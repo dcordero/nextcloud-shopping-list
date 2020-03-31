@@ -1,0 +1,15 @@
+{
+    "name": "Shopping List",
+    "description": "Keep and synchronise your shopping list",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "David Cordero"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
